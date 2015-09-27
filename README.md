@@ -8,16 +8,27 @@ create list of IP's and Hosts and name it Input.txt then just run python ipasn.p
 # Sample Input File
 
 91.244.181.74
+
 85.25.20.182
+
 server2.qvsdirect.co.uk
+
 87.118.106.182
+
 84.40.9.107
+
 sdh.facmultimedia.net
+
 p50994641.dip0.t-ipconnect.de
+
 81.88.231.65
+
 212.91.171.178
+
 powermon.nl.clara.net
+
 s15378382.domainepardefaut.fr
+
 78.46.37.69
 
 # Sample Output File
