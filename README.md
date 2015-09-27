@@ -6,7 +6,7 @@ Create an output of | IP | Country | ASN | ISP | to txt file from IP and Hosts l
 create list of IP's and Hosts and name it Input.txt then just run python ipasn.py
 
 # Sample Input File
-
+```
 91.244.181.74
 
 85.25.20.182
@@ -30,9 +30,9 @@ powermon.nl.clara.net
 s15378382.domainepardefaut.fr
 
 78.46.37.69
-
+```
 # Sample Output File
-
+```
 91.244.181.74 | BG | 199129 |  NEXTPOINTHOST-AS Next point Host EOOD.,BG
 
 85.25.20.182 | DE | 8972 |  PLUSSERVER-AS PlusServer AG,DE
@@ -56,3 +56,4 @@ s15378382.domainepardefaut.fr
 87.106.206.119 | DE | 8560 |  ONEANDONE-AS 1&1 Internet AG,DE
 
 78.46.37.69 | DE | 24940 |  HETZNER-AS Hetzner Online GmbH,DE
+```
